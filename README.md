@@ -1,7 +1,7 @@
 # CinnamonTransparentThemeDark
 A dark and transparent theme designed for Cinnamon Desktop Enviroment for linux based systems. (Mint-Y theme based).
 
-Um tema escuro e transparente desenvolvido para o Ambiente de desktop Cinnamon para sistemas baseados em linux. (baseado no thema Mint-Y)
+Um tema escuro e transparente desenvolvido para o Ambiente de desktop Cinnamon para sistemas baseados em linux. (baseado no tema Mint-Y)
 
 # How to use:
 
