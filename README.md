@@ -13,10 +13,8 @@ Open the control system in "Start menu" and select theme, then select # Mint-Y-D
 Dentro da pasta do usuário cria uma nova pasta chamada: .themes e copie o conteudo desta pasta do github para dentro dela (.themes).
 Abra o centro de controle no "Menu iniciar" e seleciona thema, e então selecione o tema # Mint-Y-Dark-personalizado nas diversas abas.
 
-@
-
-```git
-![Theme's Print](https://raw.githubusercontent.com/Brunomestieri/CinnamonTransparentThemeDark/main/Captura%20de%20tela%20de%202021-11-28%2011-31-06.png)
-```
 
 
+<div>
+<img src="https://raw.githubusercontent.com/Brunomestieri/CinnamonTransparentThemeDark/main/Captura%20de%20tela%20de%202021-11-28%2011-31-06.png"
+</div>
